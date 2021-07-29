@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'AvenirHeavy';
+    src: url('AvenirHeavy.woff2') format('woff2'),
+        url('AvenirHeavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvenirMedium';
+    src: url('AvenirMedium.woff2') format('woff2'),
+        url('AvenirMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvenirRoman';
+    src: url('AvenirRoman.woff2') format('woff2'),
+        url('AvenirRoman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
